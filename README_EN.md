@@ -1,16 +1,16 @@
 # NEGA AI
 
-## 教程
+## Tutorial
 
-详见`doc`目录下的图文教程
+See the `doc` directory for illustrated tutorials.
 
-内置语音配置见 `public/American.mp3`
+Built-in voice configuration can be found in `public/American.mp3`.
 
-### Agent 描述提示词
+### Agent Description Prompt
 
 Male voice, bright and powerful tone (no gravelly/no hoarseness), thick African American urban street New York accent, cocky and arrogant demeanor, tough sharp vibe, world-weary cynical tone with playful sarcasm, slight street slang infusion, crisp and clear enunciation for English grammar explanation, domineering and confident, keep urban street swag while speaking clearly
 
-## 使用Node运行服务:
+## Run Service with Node:
 
 ```bash
 npm run dev
@@ -22,7 +22,7 @@ pnpm dev
 bun dev
 ```
 
-## 查看更多
+## Learn More
 
 - [Conversational AI Tutorial](https://elevenlabs.io/docs/product/introduction)
 - [Conversational AI SDK](https://elevenlabs.io/docs/libraries/conversational-ai-sdk-js)
